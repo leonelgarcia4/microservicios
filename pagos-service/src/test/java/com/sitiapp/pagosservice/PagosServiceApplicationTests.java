@@ -1,10 +1,10 @@
-package com.microservicio.base;
+package com.sitiapp.pagosservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BaseApplicationTests {
+class PagosServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
